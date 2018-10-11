@@ -1,5 +1,10 @@
-<<<<<<< HEAD
+
 # 511 github repo
-=======
-"# 511 github repo" 
->>>>>>> 9280b7ced98979bf2daeeaf7a441ca4bb73a195a
+
+the primary function of this repo is to develop 'git' skills over the course of the year. 
+
+## repository contents
+
++ 'helloworld.py'
+	+run with 'python helloworld.py'
+	+ this will greet you and then tell you the current time
